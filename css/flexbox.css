@@ -11,21 +11,11 @@
     display: none;
 }
 
-
-
-
 @media (min-width:834px) {
 
     /* Cabecera */
     .cabecera__buscar__item{
         display: block
-    }
-
-    
+    }    
 
 }
-
-
-
-
-
