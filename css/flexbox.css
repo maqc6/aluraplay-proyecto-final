@@ -11,8 +11,6 @@
     display: none;
 }
 
-
-
 /* Seccion superior */
 .superior__seccion__container{
     display: flex;
@@ -22,9 +20,6 @@
     gap: 15px;
 
 }
-
-
-
 
 /* Rodapie */
 .rodapie__container{
@@ -36,8 +31,6 @@
    
 }
 
-
-
 @media (min-width:834px) {
 
     /* Cabecera */
@@ -48,12 +41,7 @@
     /* Rodapie */
     .rodapie__container{
         justify-content: space-between;
-    }
-   
+    }   
 
 }
-
-
-
-
 
