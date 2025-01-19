@@ -54,20 +54,14 @@
 
 }
 
-
-
-
 /* Rodapie */
 .rodapie__container{
     display: flex;
     /* flex-direction: column;
    flex-wrap: wrap; */
-   flex-flow: column wrap;
-    
+   flex-flow: column wrap;    
    
 }
-
-
 
 @media (min-width:834px) {
 
@@ -79,12 +73,7 @@
     /* Rodapie */
     .rodapie__container{
         justify-content: space-between;
-    }
-   
+    }   
 
 }
-
-
-
-
 
