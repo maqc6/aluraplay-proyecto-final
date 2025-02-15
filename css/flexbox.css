@@ -36,13 +36,11 @@
     gap: 5px;
 }
 
-
 .menu__lista:nth-child(2),
 .menu__lista:nth-child(3),
 .menu__lista:nth-child(4){
     display: none;
 }
-
 
 /* Seccion superior */
 .superior__seccion__container{
@@ -102,12 +100,9 @@
     display: flex;
     /* flex-direction: column;
    flex-wrap: wrap; */
-   flex-flow: column wrap;
-    
+   flex-flow: column wrap;    
    
 }
-
-
 
 @media (min-width:834px) {
 
@@ -115,6 +110,7 @@
     .cabecera__buscar__item{
         display: block
     }
+    
     /* Desafío Menú Lateral */
     .menu__container {
         left: 0;
@@ -130,16 +126,12 @@
         gap: 33px;
     }
 
-
     /* Rodapie */
     .rodapie__container{
         justify-content: space-between;
-    }
-   
+    }   
 
 }
-
-
 
 @media (min-width:1440px ){
 
@@ -182,13 +174,7 @@
 
     .premium{
         order:1;
-    }
-
-    
+    }    
    
-
-
-
-
 }
 
